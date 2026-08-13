@@ -1,0 +1,12 @@
+body{
+    text-align: center;
+    font-family: cursive;
+    background-color: rgb(219, 181, 223);
+    font-size: medium;
+}
+img{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+
+}
